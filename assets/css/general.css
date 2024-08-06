@@ -114,7 +114,7 @@ html,
 body {
   background: #fff;
   font-family: 'Poppins', sans-serif;
-  transform: scale(0.8); /*adject the scale of value*/
+  transform: scale(1.0); /*adject the scale of value*/
 }
 
 ::selection {
