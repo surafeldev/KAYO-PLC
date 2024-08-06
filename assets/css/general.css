@@ -130,6 +130,7 @@ body {
   html, body {
     overflow-x: hidden;
   }
+  
   .mobile-top-fix {
     margin-top: 30px;
     margin-bottom: 0px;
