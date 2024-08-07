@@ -1288,6 +1288,7 @@ reservation
   padding: 20px;
 }
 
+
 .contact-form ::-webkit-input-placeholder { /* Edge */
   color: #2a2a2a;
 }
@@ -1520,9 +1521,6 @@ responsive
   }
   #chefs .chef-item {
     margin-bottom: 30px;
-  }
-  #reservation .phone {
-    margin-bottom: 60px;
   }
   #contact {
     margin-left: 0px;
