@@ -169,6 +169,8 @@ body {
   opacity: 0.9;
 }
 
+
+
 .section-heading h6 {
   position: relative;
   font-size: 15px;
@@ -1070,6 +1072,26 @@ menu
   content: '\f105';
 }
 
+.products {
+  text-align: right;
+  margin: 20px;
+  padding-right: 100px;
+}
+
+.products a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: hsl(0, 99%, 52%);
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.products a:hover {
+  background-color: hsl(0, 100%, 50%);
+}
+
 
 /*
 ---------------------------------------------
@@ -1139,6 +1161,29 @@ chefs
 #chefs .chef-item .down-content span {
   font-size: 14px;
   color: #2a2a2a;
+}
+
+
+
+.visit-gallary {
+  text-align: right;
+  margin: 20px;
+  padding-right: 160px;
+
+}
+
+.visit-gallary a {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f81414;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.visit-gallary a:hover {
+  background-color: #f8e6e6;
 }
 
 
