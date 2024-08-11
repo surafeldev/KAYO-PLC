@@ -715,11 +715,11 @@ banner
 }
 
 .img-fill img {
-  width: 100%;
-  height: auto;
-  display: block;
+  min-height: 100%;
+  min-width: 100%;
   position: relative;
-  max-width: 100%;
+  display: block;
+  max-width: none;
 }
 
 *,
