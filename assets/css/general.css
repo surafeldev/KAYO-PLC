@@ -749,6 +749,13 @@ banner
 }
 
 /* ==== Slider Style === */
+
+.responsive-img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 .Modern-Slider .item .img-fill{
   height:100%;
   max-height: 700px;
